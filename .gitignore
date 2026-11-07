@@ -1,3 +1,14 @@
 # Notebook checkpoints
 .ipynb_checkpoints
 
+#Terminal notes
+Notes-terminal.
+
+#images
+*.png
+
+#cache
+__pycache__/
+ 
+#test
+test_diffusion_model.py
